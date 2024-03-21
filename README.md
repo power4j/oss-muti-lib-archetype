@@ -1,4 +1,4 @@
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.power4j.archetype/oss-lib-multi/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.power4j.archetype/oss-lib-multi)
+[![Maven Central Version](https://img.shields.io/maven-central/v/com.power4j.archetype/oss-lib-multi)](https://central.sonatype.com/artifact/com.power4j.archetype/oss-lib-multi)
 
 ## usage
 
