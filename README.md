@@ -12,7 +12,7 @@ mvn archetype:generate \
        -Dpackage=com.example \
        -DarchetypeGroupId=com.power4j.archetype \
        -DarchetypeArtifactId=oss-lib-multi \
-       -DarchetypeVersion=1.0.0
+       -DarchetypeVersion=1.0.1
 ```
 
 you will get
