@@ -1,0 +1,9 @@
+# see https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuring-dependabot-version-updates
+version: 2
+updates:
+- package-ecosystem: maven
+  directory: "/"
+  target-branch: "dev"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
