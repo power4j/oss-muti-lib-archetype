@@ -6,7 +6,7 @@
         <groupId>${groupId}</groupId>
         <artifactId>${rootArtifactId}</artifactId>
         <version>#[[${revision}]]#</version>
-        <relativePath>../</relativePath>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>${rootArtifactId}-dependencies</artifactId>

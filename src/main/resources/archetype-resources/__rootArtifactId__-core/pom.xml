@@ -6,7 +6,7 @@
         <groupId>${groupId}</groupId>
         <artifactId>${rootArtifactId}-build</artifactId>
         <version>#[[${revision}]]#</version>
-        <relativePath>../${rootArtifactId}-build</relativePath>
+        <relativePath>../${rootArtifactId}-build/pom.xml</relativePath>
     </parent>
 
     <artifactId>${rootArtifactId}-core</artifactId>
