@@ -6,7 +6,7 @@
 
     <groupId>com.power4j.archetype</groupId>
     <artifactId>oss-lib-multi</artifactId>
-    <version>1.2.0-SNAPSHOT</version>
+    <version>1.2.0</version>
     <packaging>maven-archetype</packaging>
 
     <name>${project.artifactId}</name>
