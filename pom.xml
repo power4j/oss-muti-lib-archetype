@@ -45,7 +45,7 @@
         <!-- plugin -->
         <maven-archetype-plugin.version>3.2.1</maven-archetype-plugin.version>
         <maven-flatten-plugin.version>1.6.0</maven-flatten-plugin.version>
-        <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
+        <maven-source-plugin.version>3.3.1</maven-source-plugin.version>
         <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
     </properties>
 
